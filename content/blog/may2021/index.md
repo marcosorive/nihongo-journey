@@ -8,3 +8,7 @@ description: "May is the month of the flowers, and also when I started taking th
 
 Today I've reviewed the Hiragana syllabary, as I usually do, and started lesson 3 of Genki. I watched around 1/4 of [this video](https://www.youtube.com/watch?v=ed4rmIY4mL0) which explains verbs much better than the book. I didn't have a lot of time today but at least I understood everything that I heard from the video.
 
+## May 6th and 7th
+
+Very busy days with family events, even with the corona pandemic. I only had time to continue learning the theory about Ichidan verbs and how to use them with the masu form. 
+
