@@ -3,7 +3,7 @@ module.exports = {
     title: `Nihongo Journey`,
     author: {
       name: `Marcos Orive`,
-      summary: `who is trying to learn japanese and is logging it here.`,
+      summary: ``,
     },
     description: `A blog about the journey of self-taught japanese.`,
     siteUrl: `https://nihongo-journey.netlify.app`,
