@@ -19,3 +19,15 @@ Today it was climbing day with friends basically. Arrived home late and I am tir
 ## May 9th
 
 Although I am still tired from climbing and my alergies are killing me, I've managed to review the Hiragana syllabary, as usual. I also finished learning about Ichidan verbs and its exceptions. I continued with the two irregular verbs that are in japanese and the negative formal form (~masen). Finally, I started writing flashcards as a new studying method. I wrote 2 cards: for basic _X wa Y desu_ sentences and question sentences. I intend to create vocabulary cards, Grammar, vocabulary... etc. I will probably use flashcards for Kanji as well in the future.
+
+## May 10th
+
+Busy day at work and in the evening as well with personal things, no japanese today!.
+
+## May 11th
+
+After the climbing gym I reviewed Hiragana, and wrote some more flash cards! I also reviewed old topic from unit 1 and 2 from Genki.
+
+## May 12th 
+
+I've restarted using Wanikani for learning kanjis! And wrote a flashcard from genki unit 2.
